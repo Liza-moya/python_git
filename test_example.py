@@ -1,6 +1,6 @@
-def test_example():
-    assert 3 > 1
-    assert 3 > 1
+def test_example_0():
+    assert 10 > 1
+
 another_test
     new*
     def test_another():
