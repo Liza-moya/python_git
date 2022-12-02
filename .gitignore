@@ -1,0 +1,5 @@
+/.idea
+*.log
+/ven
+/.pytest_cache
+/__pycache__/
